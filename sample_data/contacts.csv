@@ -1,0 +1,9 @@
+full_name,phone,email
+Aarav Sharma,+91 98765 43210,aarav.sharma@example.com
+Priya Natarajan,+91 90030-11223,priya.n@example.com
+Meera Iyer,044 2345 6789,meera.iyer@example.com
+John Carter,+1 (415) 555-0134,john.carter@example.com
+Sofia Rossi,+39 06 1234 5678,sofia.rossi@example.com
+Priya Natarajan,+91 90030 11223,another@example.com
+Bad Email,9876543210,not-an-email
+,9876543210,noname@example.com
